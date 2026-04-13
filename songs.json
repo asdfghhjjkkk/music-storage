@@ -6,11 +6,9 @@
     "duration": 210000
   },
   {
-    {
-    "name": "Playground",
-    "artist": "Bea Miller",
-    "url": "https://github.com/asdfghhjjkkk/music-storage/raw/refs/heads/main/01%20-%20MOONLIGHT%20SUNRISE%20-%20KPOPJJANG.mp3",
+    "name": "Moonlight Sunrise",
+    "artist": "TWICE",
+    "url": "https://raw.githubusercontent.com/asdfghhjjkkk/music-storage/main/01%20-%20MOONLIGHT%20SUNRISE%20-%20KPOPJJANG.mp3",
     "duration": 300000
   }
-  
 ]
